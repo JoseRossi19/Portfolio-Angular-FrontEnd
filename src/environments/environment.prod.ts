@@ -1,13 +1,12 @@
 export const environment = {
   firebase: {
-    projectId: 'backjgr',
-    appId: '1:617449614413:web:2c8f5582ba89f7c0d00004',
-    storageBucket: 'backjgr.appspot.com',
-    locationId: 'southamerica-east1',
-    apiKey: 'AIzaSyAT4CAvi2qw_gLNBpqAcRlMZnLOI3-W_Rg',
-    authDomain: 'backjgr.firebaseapp.com',
-    messagingSenderId: '617449614413',
+    projectId: 'frontendok-fbb8f',
+    appId: '1:200470013161:web:339f13612ab64782efbc78',
+    storageBucket: 'frontendok-fbb8f.appspot.com',
+    apiKey: 'AIzaSyCj9xGYVzN_IlEsGF5V-hCm2kHO23aC2r8',
+    authDomain: 'frontendok-fbb8f.firebaseapp.com',
+    messagingSenderId: '200470013161',
   },
   production: true,
-  URL:  'https://backjgr.herokuapp.com/'
+  URL:  'https://backendok.herokuapp.com'
 };

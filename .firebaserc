@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "backjgr"
-  }
+    "default": "frontendok-376ea",
+    "frontendok": "frontendok-376ea"
+  },
+  "targets": {},
+  "etags": {}
 }

@@ -1,11 +1,19 @@
 {
   "hosting": {
-    "public": "public",
-    "site": "backjgr",
+    "public": "dist/proyecto-integrador-rossi-jose",
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
     ]
+  },
+  "database": {
+    "rules": "database.rules.json"
   }
 }
